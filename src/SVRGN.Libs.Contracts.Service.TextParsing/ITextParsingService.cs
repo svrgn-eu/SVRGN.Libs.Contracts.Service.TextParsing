@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SVRGN.Libs.Contracts.TextParsing
+namespace SVRGN.Libs.Contracts.Service.TextParsing
 {
     public interface ITextParsingService
     {
